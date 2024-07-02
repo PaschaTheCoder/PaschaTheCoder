@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pascha
+- 👋 Hi, I’m @Vansh
 - 👀 I’m interested in learning languages and to create a new things with them.
 - 🌱 I’m currently learning Javascript,React,CSS,HTML5 etc. 
 - 💞️ I’m looking to collaborate on ...
